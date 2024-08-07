@@ -33,6 +33,6 @@ MP One Plus demonstrates my expertise in:
 - This project not only highlights my technical skills but also reflects my ability to build solutions that address real-world business challenges.
 
 
-<h2>Explore Mexican People HR</h2>
+<h2>Explore MP One Plus</h2>
 
 For a deeper dive into the project and its features, visit the [project page](https://mponeplus.com)
