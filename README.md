@@ -22,11 +22,15 @@ OpenPay Integration: Secure payment processing integrated with OpenPay for manag
 <h2>Why MP One Plus?</h2>
 MP One Plus demonstrates my expertise in:
 
--Developing complex web applications using Laravel 8.
--Implementing and integrating third-party APIs.
--Creating user-centric dashboards and management tools.
--Ensuring secure and efficient payment processes.
--This project not only highlights my technical skills but also reflects my ability to build solutions that address real-world business challenges.
+- Developing complex web applications using Laravel 8.
+
+- Implementing and integrating third-party APIs.
+
+- Creating user-centric dashboards and management tools.
+
+- Ensuring secure and efficient payment processes.
+
+- This project not only highlights my technical skills but also reflects my ability to build solutions that address real-world business challenges.
 
 
 <h2>Explore MP One Plus</h2>
