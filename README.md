@@ -13,7 +13,7 @@ Psychometric APIs: Integrated APIs for psychometric assessments, allowing for th
 Socioeconomic Studies: Incorporates tools for conducting detailed socioeconomic studies to support better hiring decisions.
 OpenPay Integration: Secure payment processing integrated with OpenPay for managing transactions efficiently.
 
-<h2>Why MP One Plus?</h2>
+<h2 align="justify">Why MP One Plus?</h2>
 MP One Plus demonstrates my expertise in:
 
 Developing complex web applications using Laravel 8.
@@ -23,6 +23,6 @@ Ensuring secure and efficient payment processes.
 This project not only highlights my technical skills but also reflects my ability to build solutions that address real-world business challenges.
 
 
-<h2>Explore MP One Plus</h2>
+<h2 align="justify">Explore MP One Plus</h2>
 
 For a deeper dive into the project and its features, visit the [project page](https://mponeplus.com)
