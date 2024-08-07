@@ -6,7 +6,7 @@
 <h2>Key Features</h2>
 <strong>Job Posting Management:</strong> Allows companies to post job offers with different visibility levels (Basic, Premium, Advanced) for enhanced outreach and urgency.
 
-<br><br>
+<br>
 <strong>Company Dashboard:</strong> Provides a user-friendly interface for companies to manage job offers and track applications.
 
 <strong>Unlimited CV Applications:</strong> Enables companies to receive and review an unlimited number of CVs, facilitating comprehensive candidate selection.
