@@ -6,18 +6,19 @@
 <h2>Key Features</h2>
 <strong>Job Posting Management:</strong> Allows companies to post job offers with different visibility levels (Basic, Premium, Advanced) for enhanced outreach and urgency.
 
+
 <strong>Company Dashboard:</strong> Provides a user-friendly interface for companies to manage job offers and track applications.
 
 <strong>Unlimited CV Applications:</strong> Enables companies to receive and review an unlimited number of CVs, facilitating comprehensive candidate selection.
 
-<h6>Highlighted and Urgent Offers: Features options for companies to make their job offers more visible and urgent.</h6>
+<strong>Highlighted and Urgent Offers: Features options for companies to make their job offers more visible and urgent.</strong>
 
 <h2>Technical Integration</h2>
-Psychometric APIs: Integrated APIs for psychometric assessments, allowing for thorough evaluation of candidate skills and competencies.
+<strong>Psychometric APIs:</strong> Integrated APIs for psychometric assessments, allowing for thorough evaluation of candidate skills and competencies.
 
-Socioeconomic Studies: Incorporates tools for conducting detailed socioeconomic studies to support better hiring decisions.
+<strong>Socioeconomic Studies:</strong> Incorporates tools for conducting detailed socioeconomic studies to support better hiring decisions.
 
-OpenPay Integration: Secure payment processing integrated with OpenPay for managing transactions efficiently.
+<strong>OpenPay Integration:</strong> Secure payment processing integrated with OpenPay for managing transactions efficiently.
 
 <h2>Why MP One Plus?</h2>
 MP One Plus demonstrates my expertise in:
