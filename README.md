@@ -6,12 +6,12 @@
 <h2>Key Features</h2>
 <strong>Job Posting Management:</strong> Allows companies to post job offers with different visibility levels (Basic, Premium, Advanced) for enhanced outreach and urgency.
 
-
+<br>
 <strong>Company Dashboard:</strong> Provides a user-friendly interface for companies to manage job offers and track applications.
 
 <strong>Unlimited CV Applications:</strong> Enables companies to receive and review an unlimited number of CVs, facilitating comprehensive candidate selection.
 
-<strong>Highlighted and Urgent Offers: Features options for companies to make their job offers more visible and urgent.</strong>
+<strong>Highlighted and Urgent Offers:</strong> Features options for companies to make their job offers more visible and urgent.
 
 <h2>Technical Integration</h2>
 <strong>Psychometric APIs:</strong> Integrated APIs for psychometric assessments, allowing for thorough evaluation of candidate skills and competencies.
