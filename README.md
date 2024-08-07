@@ -1,14 +1,14 @@
-# MP-One-Plus
+# MP One Plus
 
 <h2>Project Overview</h2>
 <div style="text-align:justify;">MP One Plus is a sophisticated job management platform developed with Laravel 8, designed to enhance and streamline the recruitment and job search process. This project showcases my skills in developing scalable web applications and integrating various APIs to create a robust and efficient system.</div>
 
 <h2>Key Features</h2>
-<h6>Job Posting Management: Allows companies to post job offers with different visibility levels (Basic, Premium, Advanced) for enhanced outreach and urgency.</h6>
+<strong>Job Posting Management:</strong> Allows companies to post job offers with different visibility levels (Basic, Premium, Advanced) for enhanced outreach and urgency.
 
-<h6>Company Dashboard:</h6> Provides a user-friendly interface for companies to manage job offers and track applications.
+<strong>Company Dashboard:</strong> Provides a user-friendly interface for companies to manage job offers and track applications.
 
-<h5>Unlimited CV Applications:</h5> Enables companies to receive and review an unlimited number of CVs, facilitating comprehensive candidate selection.
+<strong>Unlimited CV Applications:</strong> Enables companies to receive and review an unlimited number of CVs, facilitating comprehensive candidate selection.
 
 <h6>Highlighted and Urgent Offers: Features options for companies to make their job offers more visible and urgent.</h6>
 
