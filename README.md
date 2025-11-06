@@ -1,4 +1,4 @@
-# MP One Plus
+# MP One Plus (Now Job One Plus)
 
 <h2>Project Overview</h2>
 <div style="text-align:justify;">MP One Plus is a sophisticated job management platform developed with Laravel 8, designed to enhance and streamline the recruitment and job search process. This project showcases my skills in developing scalable web applications and integrating various APIs to create a robust and efficient system.</div>
@@ -35,4 +35,4 @@ MP One Plus demonstrates my expertise in:
 
 <h2>Explore MP One Plus</h2>
 
-For a deeper dive into the project and its features, visit the [project page](https://mponeplus.com)
+For a deeper dive into the project and its features, visit the [project page](https://joboneplus.com)
